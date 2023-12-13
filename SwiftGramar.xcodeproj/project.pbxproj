@@ -11,6 +11,7 @@
 		871AC7242B26F2C900A1872E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 871AC7232B26F2C900A1872E /* Assets.xcassets */; };
 		871AC7272B26F2C900A1872E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 871AC7262B26F2C900A1872E /* Preview Assets.xcassets */; };
 		871AC72E2B26F32800A1872E /* 01-Closure.swift in Sources */ = {isa = PBXBuildFile; fileRef = 871AC72D2B26F32800A1872E /* 01-Closure.swift */; };
+		87CE12582B2999880029893C /* 02-Error, do-try-catch.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87CE12572B2999880029893C /* 02-Error, do-try-catch.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		871AC7232B26F2C900A1872E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		871AC7262B26F2C900A1872E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		871AC72D2B26F32800A1872E /* 01-Closure.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "01-Closure.swift"; sourceTree = "<group>"; };
+		87CE12572B2999880029893C /* 02-Error, do-try-catch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "02-Error, do-try-catch.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				871AC71F2B26F2C600A1872E /* SwiftGramarApp.swift */,
 				871AC72D2B26F32800A1872E /* 01-Closure.swift */,
+				87CE12572B2999880029893C /* 02-Error, do-try-catch.swift */,
 				871AC7232B26F2C900A1872E /* Assets.xcassets */,
 				871AC7252B26F2C900A1872E /* Preview Content */,
 			);
@@ -139,6 +142,7 @@
 			files = (
 				871AC72E2B26F32800A1872E /* 01-Closure.swift in Sources */,
 				871AC7202B26F2C600A1872E /* SwiftGramarApp.swift in Sources */,
+				87CE12582B2999880029893C /* 02-Error, do-try-catch.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
